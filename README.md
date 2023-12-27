@@ -5,3 +5,14 @@ These images, captured using diverse fundus cameras including Topcon's TRC-50DX 
 The diabetic retinopathy lesions are annotated using the Labelme tool, encompassing four prevalent diabetic retinopathy lesions: Microaneurysms (MA), Hemorrhages (HE), Hard Exudates (EX), and Soft Exudates (SE).
 Meanwhile, experienced ophthalmologists conduct the annotation work with rigorous quality assurance, culminating in the construction of this dataset. This dataset has been partitioned into training and testing sets and publicly released to contribute to advancements in the diabetic retinopathy lesion segmentation research community.
 ## Download Link: [here](https://tongjieducn-my.sharepoint.com/:f:/g/personal/mjx_tongji_edu_cn/EkpOgfHgyS5Mo-cKcUheogoBc3mVIs2qB4vW0fF8EaFYVg).
+
+## Citation:
+If you find this dataset is useful to your research, please consider to cite our paper.
+```text
+@article{mao2023tjdr,
+      title={TJDR: A High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset}, 
+      author={Jingxin Mao and Xiaoyu Ma and Yanlong Bi and Rongqing Zhang},
+      journal={arXiv preprint arXiv:2312.15389},
+      year={2023},
+}
+```
