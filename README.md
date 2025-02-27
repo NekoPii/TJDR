@@ -20,9 +20,9 @@ If you find this dataset is useful to your research, please consider to cite our
 or
 ```
 @article{mao2023tjdr,
-      title={TJDR: A High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset}, 
-      author={Jingxin Mao and Xiaoyu Ma and Yanlong Bi and Rongqing Zhang},
-      journal={arXiv preprint arXiv:2312.15389},
-      year={2023},
+  title={TJDR: A high-quality diabetic retinopathy pixel-level annotation dataset},
+  author={Mao, Jingxin and Ma, Xiaoyu and Bi, Yanlong and Zhang, Rongqing},
+  journal={arXiv preprint arXiv:2312.15389},
+  year={2023}
 }
 ```
