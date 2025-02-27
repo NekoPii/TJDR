@@ -7,7 +7,7 @@ Meanwhile, experienced ophthalmologists conduct the annotation work with rigorou
 ## Download Link: [OneDrive](https://tongjieducn-my.sharepoint.com/:f:/g/personal/mjx_tongji_edu_cn/EkpOgfHgyS5Mo-cKcUheogoBc3mVIs2qB4vW0fF8EaFYVg?e=TAZOyN) or [GoogleDrive](https://drive.google.com/drive/folders/1RBAtPPAvX1KXiJrNsrJz7jSMCL3AgAJT?usp=sharing).
 
 ## Citation:
-If you find this dataset is useful to your research, please consider to cite our paper.
+If you find this dataset is useful to your research, please cite our papers.
 ```text
 @article{mao2024comprehensive,
   title={A Comprehensive Federated Learning Framework for Diabetic Retinopathy Grading and Lesion Segmentation},
