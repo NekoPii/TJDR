@@ -9,6 +9,16 @@ Meanwhile, experienced ophthalmologists conduct the annotation work with rigorou
 ## Citation:
 If you find this dataset is useful to your research, please consider to cite our paper.
 ```text
+@article{mao2024comprehensive,
+  title={A Comprehensive Federated Learning Framework for Diabetic Retinopathy Grading and Lesion Segmentation},
+  author={Mao, Jingxin and Ma, Xiaoyu and Bi, Yanlong and Zhang, Rongqing},
+  journal={IEEE Transactions on Big Data},
+  year={2024},
+  publisher={IEEE}
+}
+```
+or
+```
 @article{mao2023tjdr,
       title={TJDR: A High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset}, 
       author={Jingxin Mao and Xiaoyu Ma and Yanlong Bi and Rongqing Zhang},
