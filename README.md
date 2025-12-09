@@ -4,7 +4,7 @@ The dataset comprises 561 color fundus images sourced from the Tongji Hospital A
 These images, captured using diverse fundus cameras including Topcon's TRC-50DX and Zeiss CLARUS 500, exhibit high resolution. For the sake of adhering strictly to principles of data privacy, the private information of images is meticulously removed while ensuring clarity in displaying anatomical structures such as the optic disc, retinal blood vessels, and macular fovea.
 The diabetic retinopathy lesions are annotated using the Labelme tool, encompassing four prevalent diabetic retinopathy lesions: Microaneurysms (MA), Hemorrhages (HE), Hard Exudates (EX), and Soft Exudates (SE).
 Meanwhile, experienced ophthalmologists conduct the annotation work with rigorous quality assurance, culminating in the construction of this dataset. This dataset has been partitioned into training and testing sets and publicly released to contribute to advancements in the diabetic retinopathy lesion segmentation research community.
-## Download Link: [OneDrive](https://tongjieducn-my.sharepoint.com/:f:/g/personal/mjx_tongji_edu_cn/EkpOgfHgyS5Mo-cKcUheogoBc3mVIs2qB4vW0fF8EaFYVg?e=TAZOyN) or [GoogleDrive](https://drive.google.com/drive/folders/1RBAtPPAvX1KXiJrNsrJz7jSMCL3AgAJT?usp=sharing).
+## Download Link: [OneDrive](https://hkustgz-my.sharepoint.com/:f:/g/personal/jmao913_connect_hkust-gz_edu_cn/EgkTUVYtBdhCuIFcMOgJtkQBIPJoGFOKkUw8MlO5IlBMeA?e=R6D5ah) or [GoogleDrive](https://drive.google.com/drive/folders/1RBAtPPAvX1KXiJrNsrJz7jSMCL3AgAJT?usp=sharing).
 
 ## Citation:
 If you find this dataset is useful to your research, please cite our papers.
